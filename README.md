@@ -16,3 +16,7 @@
 ```bash
 pip install matplotlib tqdm
 ```
+
+## 実行結果
+このスクリプトによって出力されるPDFの一例です。
+![result](Images/image.png)
